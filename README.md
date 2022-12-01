@@ -3,7 +3,7 @@
 ## I'm Agnes
 
 - 🌱 I'm student majoring in Information Engineering UGM
-- 🤔 I'm currently learning Data Analyst
+- 🤔 I'm currently learning MERN
 - ⚡ I love cats
 
 <div id="socialbadges">
