@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/agnes-suarna-3b707715a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=agnessuarna)
 <!--
 **agnessuarna/agnessuarna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
