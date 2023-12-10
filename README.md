@@ -7,8 +7,8 @@
 - ⚡ I love cats
 
 
-%| <a href="https://github.com/agnessuarna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agnessuarna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Agnes Suarna's github stats" /></a> | <a href="https://github.com/agnessuarna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnessuarna&layout=compact&theme=buefy&hide_border=true" /></a> |
-%| ------------- | ------------- |
+| <a href="https://github.com/agnessuarna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agnessuarna&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Agnes Suarna's github stats" /></a> | <a href="https://github.com/agnessuarna/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnessuarna&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div id="socialbadges">
   <h3>Reach me: </h3>
